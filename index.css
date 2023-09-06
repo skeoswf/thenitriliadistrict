@@ -1,12 +1,14 @@
 body {
-    background: linear-gradient(rgb(56, 40, 161), #19043f);
+    background-image: url("./backgroundfilm.png");
 }
 
 header {
-    background-color: black;
-
+    box-sizing: border-box;
+    background-color: #FFFDD0;
+    text-align: center;
     height: 400px;
     margin: 15px 15px;
+    padding-top: 40px;
 }
 
 /*div {
