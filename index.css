@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+@font-face {
+    src: url(./teroxia.otf);
+    font-family: Teroxia;
+}
+
 body {
     background-image: url("./backgroundfilm.png");
     background-size: cover;
@@ -17,6 +23,10 @@ header {
     font-size: 35px;
 }
 
+.city {
+    font-family: Teroxia;
+    color: rgb(141, 247, 224);
+}
 /*div {
     background-color: blue;
     width: 100%;
