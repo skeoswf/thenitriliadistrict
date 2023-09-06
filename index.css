@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 body {
     background-image: url("./backgroundfilm.png");
     background-size: cover;
@@ -10,8 +11,10 @@ header {
     text-align: center;
     height: 35%;
     margin: 15px 15px;
-    padding-top: 40px;
-
+    padding-top: 30px;
+    color: beige;
+    font-family: Montserrat;
+    font-size: 35px;
 }
 
 /*div {
