@@ -1,14 +1,17 @@
 body {
     background-image: url("./backgroundfilm.png");
+    background-size: cover;
 }
 
 header {
     box-sizing: border-box;
-    background-color: #FFFDD0;
+    background-image: url("./aicity.png");
+    background-size: cover;
     text-align: center;
-    height: 400px;
+    height: 35%;
     margin: 15px 15px;
     padding-top: 40px;
+
 }
 
 /*div {
