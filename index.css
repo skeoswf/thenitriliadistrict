@@ -52,3 +52,18 @@ header {
     height: 100%;
     border: black 2px solid;
 }
+
+.box1imgs {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+#box1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#commerce {
+    align-self: end;
+}
