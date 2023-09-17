@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 @font-face {
-    src: url(./teroxia.otf);
+    src: url(./fonts/teroxia.otf);
     font-family: Teroxia;
 }
 
 body {
-    background-image: url("./backgroundfilm.png");
+    background-image: url("./images/backgroundfilm.png");
     background-size: cover;
 }
 
 header {
-    background-image: url("./aicity.png");
+    background-image: url("./images/aicity.png");
     background-size: cover;
     display: flex;
     align-items: center;
