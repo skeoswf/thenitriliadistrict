@@ -66,10 +66,12 @@ header {
 
 #commerce {
     align-self: end;
+    margin-right: 150px;
 }
 
 #entertainment {
     align-self: end;
+    margin-left: 150px;
 }
 
 @keyframes fadeInOnLoad {
