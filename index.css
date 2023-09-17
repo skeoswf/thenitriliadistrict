@@ -59,11 +59,15 @@ header {
     border-radius: 50%;
 }
 
-#box1 {
+#box1, #box3 {
     display: flex;
     justify-content: space-around;
 }
 
 #commerce {
+    align-self: end;
+}
+
+#entertainment {
     align-self: end;
 }
