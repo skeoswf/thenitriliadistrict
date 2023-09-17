@@ -5,11 +5,6 @@
     font-family: Teroxia;
 }
 
-body {
-    background-image: url("./images/backgroundfilm.png");
-    background-size: cover;
-}
-
 header {
     background-image: url("./images/aicity.png");
     background-size: cover;
@@ -98,3 +93,13 @@ header {
 #box3 {
     margin-left: -500px;
 }
+
+#backgroundfilm {
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
