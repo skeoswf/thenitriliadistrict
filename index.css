@@ -44,7 +44,7 @@ header {
     display: flex;
     justify-content: space-around;
 
-    animation: fadeInOnLoad ease 0.5s;
+    animation: fadeInOnLoad ease 0.9s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 
